@@ -2,7 +2,7 @@
 # 📘 Digital Literacy Project
 
 ## 👤 Student Details
-- **Name:** [Your Name]  
+- **Name:** Rania sharma
 - **Registration Number:** [Your Reg No.]  
 - **Branch:** [Your Branch]  
 - **Year:** 1st Year B.Tech  
