@@ -3,8 +3,8 @@
 
 ## 👤 Student Details
 - **Name:** Rania sharma
-- **Registration Number:** [Your Reg No.]  
-- **Branch:** [Your Branch]  
+- Registration Number:25BSA10158
+- **Branch:** CSE Could computing 
 - **Year:** 1st Year B.Tech  
 - **University:** VIT Bhopal University  
 
@@ -27,8 +27,7 @@ This project is based on digital literacy and its importance in today’s digita
 ---
 
 ## 🔗 Google Form Link
-[Paste your Google Form link here]
-
+https://docs.google.com/forms/d/e/1FAIpQLSeJkmDnzbwlpPnShZ-RVyO9HDP2Opd6m6pCpVrCZScbBwA3zQ/viewform?usp=publish-editor
 ---
 
 ## 🧠 Key Learnings
